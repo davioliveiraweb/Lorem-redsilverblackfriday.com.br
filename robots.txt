@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /components/
+Disallow: /editor-modificator/
+Disallow: /entity/
+Disallow: /helper/
+Disallow: /language/
+Disallow: /node_modules/
+Disallow: /request/
+Disallow: /site/
+Disallow: /editor/
+Disallow: /pages/termos/
+Allow: /editor/projects/
